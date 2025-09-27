@@ -7,21 +7,21 @@ The pictures have been carefully selected to ensure presence of natural backgrou
 
 # Links
 
-[Idea Submission PPT](https://www.canva.com/design/DAGzg0wW0M8/iOE-wpk-llNTMSwEwtkmjg/edit?utm_content=DAGzg0wW0M8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[Idea Explanation Video](https://youtu.be/3QaioGzwSg0)
-[Idea Explanation PPT](https://www.canva.com/design/DAGz_QS44oM/BRby1bJB4DAwgYDA0e0Qog/edit?utm_content=DAGz_QS44oM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-[Model-1 Technical Approach Document](https://drive.google.com/file/d/1DfSZYuF1hrhloDPe2OAHsb4FXXGp2G7z/view?usp=drive_link)
-[Model-1 Prototype]()
-[Model-1 Prototype Document](https://drive.google.com/file/d/1EZ6PbIoI-jCy_GzliWUsAtuVI6kP9rbU/view?usp=drive_link)
-[Model-1 Prototype Working Video](https://youtu.be/z_sqeYquQ74)
+[Idea Submission PPT](https://www.canva.com/design/DAGzg0wW0M8/iOE-wpk-llNTMSwEwtkmjg/edit?utm_content=DAGzg0wW0M8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+[Idea Explanation Video](https://youtu.be/3QaioGzwSg0)  
+[Idea Explanation PPT](https://www.canva.com/design/DAGz_QS44oM/BRby1bJB4DAwgYDA0e0Qog/edit?utm_content=DAGz_QS44oM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+[Model-1 Technical Approach Document](https://drive.google.com/file/d/1DfSZYuF1hrhloDPe2OAHsb4FXXGp2G7z/view?usp=drive_link)  
+[Model-1 Prototype]()  
+[Model-1 Prototype Document](https://drive.google.com/file/d/1EZ6PbIoI-jCy_GzliWUsAtuVI6kP9rbU/view?usp=drive_link)  
+[Model-1 Prototype Working Video](https://youtu.be/z_sqeYquQ74)  
 
 # Team Members
 
 Leader: 
 [Mohd Aaqib]()
 Members:
-[Abida Argawan](https://github.com/aby-TT)
-[Isna Fatmi](https://github.com/IsnaFatmi)
-[Nahid Parveen Khanam](https://github.com/Nahidkhanam)
-[Saima Eqbal](https://github.com/SaimaEqbal)
+[Abida Argawan](https://github.com/aby-TT)  
+[Isna Fatmi](https://github.com/IsnaFatmi)  
+[Nahid Parveen Khanam](https://github.com/Nahidkhanam)  
+[Saima Eqbal](https://github.com/SaimaEqbal)  
 [Wardah Tanveer](https://github.com/WardahTanveer)
