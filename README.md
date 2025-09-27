@@ -1,9 +1,15 @@
 # SIH2025 Team IOTA - Crop Disease (Model-2) Dataset
 
-This is the dataset that our SIH Team compile from multiple online sources.  
-There are 6 crops in total - Blackgram, Cotton, Rice, Sugarcane, Tomato and Wheat.  
-For each crop, there is one healthy class and two common disease classes. Each class has 300 to 500 pictures.  
-The pictures have been carefully selected to ensure presence of natural backgrounds so that model learns how to filter out the relevant noise, thereby making it easier for the user to upload a picture without cleaning it first.
+- This is the dataset that our SIH Team compile from multiple online sources.  
+- There are 6 crops in total:  
+  - Blackgram  
+  - Cotton  
+  - Rice  
+  - Sugarcane  
+  - Tomato  
+  - Wheat  
+- For each crop, there is one healthy class and two common disease classes. Each class has 300 to 500 pictures.  
+- The pictures have been carefully selected to ensure presence of natural backgrounds so that model learns how to filter out the relevant noise, thereby making it easier for the user to upload a picture without cleaning it first.
 
 # Links
 
@@ -18,8 +24,8 @@ The pictures have been carefully selected to ensure presence of natural backgrou
 # Team Members
 
 Leader: 
-[Mohd Aaqib]()
-Members:
+[Mohd Aaqib]()  
+Members:  
 [Abida Argawan](https://github.com/aby-TT)  
 [Isna Fatmi](https://github.com/IsnaFatmi)  
 [Nahid Parveen Khanam](https://github.com/Nahidkhanam)  
