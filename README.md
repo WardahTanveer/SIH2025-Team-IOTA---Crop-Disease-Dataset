@@ -17,7 +17,8 @@
 - [Idea Explanation Video](https://youtu.be/3QaioGzwSg0)  
 - [Idea Explanation PPT](https://www.canva.com/design/DAGz_QS44oM/BRby1bJB4DAwgYDA0e0Qog/edit?utm_content=DAGz_QS44oM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 - [Model-1 Technical Approach Document](https://drive.google.com/file/d/1DfSZYuF1hrhloDPe2OAHsb4FXXGp2G7z/view?usp=drive_link)  
-- [Model-1 Prototype]()  
+- [Model-1 Prototype Live Demo](https://plant-app-tchu.vercel.app/)
+- [Model-1 Prototype Code](https://github.com/aamirkid1/KHARIF)  
 - [Model-1 Prototype Document](https://drive.google.com/file/d/1EZ6PbIoI-jCy_GzliWUsAtuVI6kP9rbU/view?usp=drive_link)  
 - [Model-1 Prototype Working Video](https://youtu.be/z_sqeYquQ74)  
 
